@@ -1,0 +1,5 @@
+ITK_ROOT=C:\t4\thirdparty\itkd
+LIBTIFF_ROOT=C:\t4\thirdparty\LibTiff
+VC_VERSION=142
+VC_VERSION_FRM2=16
+ITK_VERSION=5.2
